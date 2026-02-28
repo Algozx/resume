@@ -1,7 +1,7 @@
 {
-  "name": "Bianca Resume",
+  "name": "Guilherme Resume",
   "version": "0.1.0",
-  "homepage": "https://heybeemo.github.io/resume",
+  "homepage": "https://algozx.github.io/resume",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
