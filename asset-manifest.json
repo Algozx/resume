@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.ca1f35df.css",
+    "main.js": "/resume/static/js/main.2b9e32b3.js",
+    "static/js/453.7527288c.chunk.js": "/resume/static/js/453.7527288c.chunk.js",
+    "static/media/medroomVideo.mp4": "/resume/static/media/medroomVideo.620b1e577941a5e6cf86.mp4",
+    "static/media/profile-img.png": "/resume/static/media/profile-img.2efc09f06f2c63048cb2.png",
+    "static/media/poliana1.png": "/resume/static/media/poliana1.cb2425dd438a303f4af5.png",
+    "static/media/poliana2.png": "/resume/static/media/poliana2.acc62281ff3398c90711.png",
+    "static/media/bingoshow1.png": "/resume/static/media/bingoshow1.b12b4e71658ea613ae3b.png",
+    "static/media/medroom1.png": "/resume/static/media/medroom1.332ea96061aee26182c5.png",
+    "static/media/bingshow2.png": "/resume/static/media/bingshow2.a053be7586295825ac66.png",
+    "static/media/medroom3.png": "/resume/static/media/medroom3.46a73912205c44038a82.png",
+    "static/media/loader.gif": "/resume/static/media/loader.a7f579ec7404cfe63d7f.gif",
+    "static/media/medroom2.png": "/resume/static/media/medroom2.fdb9db1e2688f1675bc9.png",
+    "static/media/liga-main.png": "/resume/static/media/liga-main.480211b743f6cca6c10d.png",
+    "static/media/noice-img.png": "/resume/static/media/noice-img.5b3dfa4894f329855a2f.png",
+    "static/media/medroom5.png": "/resume/static/media/medroom5.0e24f5543ffe810c14ed.png",
+    "static/media/medroom4.png": "/resume/static/media/medroom4.715c671ad9c417da220f.png",
+    "static/media/medroom-main.png": "/resume/static/media/medroom-main.df6ed9fb41e6899a3b93.png",
+    "static/media/guilherme_resume.pdf": "/resume/static/media/guilherme_resume.2c01919c971e760277f7.pdf",
+    "static/media/ligaicon.png": "/resume/static/media/ligaicon.c84b1db5e1e2f6469ef8.png",
+    "static/media/drribale-svg.svg": "/resume/static/media/drribale-svg.52bd0561676698c754e99caeedf15de3.svg",
+    "static/media/medium-svg.svg": "/resume/static/media/medium-svg.9d61dce5cf61e52c717d39fc55720188.svg",
+    "static/media/contact-svg.svg": "/resume/static/media/contact-svg.625301ef380353d710dba2149846eb80.svg",
+    "index.html": "/resume/index.html",
+    "static/media/resume-svg.svg": "/resume/static/media/resume-svg.317fa1a00d328e719a2184d1dff15340.svg",
+    "static/media/check-mark.svg": "/resume/static/media/check-mark.5157effa44e06a251f02.svg",
+    "static/media/email-svg.svg": "/resume/static/media/email-svg.3437caecd3f9cdc351078630e719d9db.svg",
+    "static/media/about-svg.svg": "/resume/static/media/about-svg.2be91f5bab29da7b521fbc7601ca1e7b.svg",
+    "static/media/portfolio-svg.svg": "/resume/static/media/portfolio-svg.68811fafda4c48dd7f7f5a1a1be981f5.svg",
+    "static/media/home-svg.svg": "/resume/static/media/home-svg.7f03bc29a54d250a9d10ca07f392487d.svg",
+    "main.ca1f35df.css.map": "/resume/static/css/main.ca1f35df.css.map",
+    "main.2b9e32b3.js.map": "/resume/static/js/main.2b9e32b3.js.map",
+    "453.7527288c.chunk.js.map": "/resume/static/js/453.7527288c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca1f35df.css",
+    "static/js/main.2b9e32b3.js"
+  ]
+}
